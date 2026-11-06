@@ -11,3 +11,6 @@ Thumbs.db
 
 # 本地验证脚本
 validate.js
+
+# AI 项目约定（本地使用，不入仓库）
+AGENTS.md
