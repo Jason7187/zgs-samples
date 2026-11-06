@@ -1,16 +1,12 @@
-# 油猴脚本本体（单独管理，不入数据仓库）
 *.user.js
-
-# 编辑器与系统
 node_modules/
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 *.log
-
-# 本地验证脚本
 validate.js
-
-# AI 项目约定（本地使用，不入仓库）
 AGENTS.md
+add-major.ps1
+major-template.json
+update-index.js
